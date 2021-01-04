@@ -1,0 +1,30 @@
+{
+  "last_trend_date": "01.01.2024",
+  "salaries": [
+    {
+      "date": "01.07.2018",
+      "usd_course": 62.76,
+      "ru_salary": // your salary at this moment
+    },
+    {
+      "date": "01.09.2018",
+      "usd_course": 68.04,
+      "ru_salary": // your salary at this moment
+    },
+    {
+      "date": "01.09.2019",
+      "usd_course": 66.49,
+      "ru_salary": // your salary at this moment
+    },
+    {
+      "date": "01.02.2020",
+      "usd_course": 63.14,
+      "ru_salary": // your salary at this moment
+    },
+    {
+      "date": "01.05.2020",
+      "usd_course": 72.73,
+      "ru_salary": // your salary at this moment
+    }
+  ]
+}
