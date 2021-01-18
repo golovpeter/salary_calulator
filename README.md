@@ -1,3 +1,3 @@
-# Salary calculator
+## Salary calculator
 
-calculator to predict your future salary
+Calculator to predict your future salary

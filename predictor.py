@@ -47,7 +47,7 @@ if __name__ == '__main__':
     salary_days = get_salary_days(start_date, dates)
 
     ru_trend_dates, ru_trend_salaries = get_trend_line_data(start_date, last_trend_date, salary_days, ru_salaries)
-    usd_trend_dates, usd_trend_salaries = get_trend_line_data(start_date, last_trend_date, salary_days, usd_salaries)US
+    usd_trend_dates, usd_trend_salaries = get_trend_line_data(start_date, last_trend_date, salary_days, usd_salaries)
 
     create_plot(dates, ru_salaries, ru_trend_dates, ru_trend_salaries, 'Salary in RUB', 'Date', 'Salary', '--')
     create_plot(dates, usd_salaries, usd_trend_dates, usd_trend_salaries, 'Salary in USD', 'Date', 'Salary', '--')
